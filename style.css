@@ -3,9 +3,12 @@ h1{
     text-align: center;
 }
 h2{
-    color: darkgrey;
+    color: rgb(221, 215, 215);
     text-align: center;
 }
 p{
     text-align: justify;
+}
+body{
+    color: rgb(158, 153, 153);
 }
