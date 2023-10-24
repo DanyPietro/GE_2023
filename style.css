@@ -1,4 +1,4 @@
-h1{
+#titulo-principal{
     color: darkcyan;
     text-align: center;
 }
@@ -6,7 +6,7 @@ h2{
     color: rgb(40, 90, 44);
     text-align: center;
 }
-p{
+.texto-principal{
     text-align: justify;
 }
 body{
