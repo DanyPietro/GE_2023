@@ -2,15 +2,15 @@
     color: rgb(40, 90, 44);
     text-align: center;
     font-size: 70px;
-    font-style: ;
-}
+   }
 h2{
     color: rgb(36, 118, 43);
     text-align: center;
 }
 .texto-principal{
     text-align: justify;
-    color: rgb(109, 23, 23);
+    color: rgb(8, 34, 20);
+    line-height: 1.5;
 }
 
 .texto-2{
@@ -19,4 +19,31 @@ h2{
 
 body{
     background-color:  rgba(221, 212, 212, 0.889);
+    margin: 20px;
+    font-size: 16px;
+    font-family: Calibri;
 }
+p{
+    line-height: 1.5;
+}
+
+#banner{
+    width: 800px ; /*largura */
+    display: block;
+    margin: auto;
+}
+
+.imgesquerda{
+    width: 400px;
+    margin: 10px;
+    padding: 10px; 
+    border-radius: 10px;
+    border: solid 3px whitesmoke;
+}
+
+.cabecalho{
+    background-image: linear-gradient(#33294C, #4B377C);
+}
+
+.principal{
+    background-image: linear-gradient(#4B377C, #ECAA92);
